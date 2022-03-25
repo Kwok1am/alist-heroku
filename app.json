@@ -5,7 +5,7 @@
   "env": {
     "ADATABASE": {
        "description": "数据库类型（sqlite3 / mysql）",
-       "value": "sqlite3"
+       "value": "mysql"
     },
     "BSQLUSER": {
        "description": "MySQL 用户名（数据库类型为远程 MySQL 时需要更改）",
@@ -40,7 +40,7 @@
       "value": "https://npm.elemecdn.com/alist-web@$version/dist/"
     }
   },
-  "website": "https://github.com/alist-org/alist-heroku",
-  "repository": "https://github.com/alist-org/alist-heroku",
+  "website": "https://github.com/Kwok1am/alist-heroku",
+  "repository": "https://github.com/Kwok1am/alist-heroku",
   "stack": "container"
 }
